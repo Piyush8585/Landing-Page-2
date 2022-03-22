@@ -1,0 +1,19 @@
+.fakeimg {
+    height: 200px;
+    background: #aaa;
+}
+a{
+	    color: white;
+
+}
+body{
+   
+/* UI Properties */
+    /* Layout Properties */     
+/* UI Properties */
+    background: transparent url('img/Group_10718.png')  0% 0% no-repeat padding-box;
+    background: 0.50;
+    background-blend-mode: multiply;
+
+    opacity: 0.95;
+}
